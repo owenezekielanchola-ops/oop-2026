@@ -2,8 +2,8 @@
 Electornic Devices
 
 # Properties
-- Cellphone
-- laptop
+- Value
+- Type
 
 # Object 1
 - Cheap
