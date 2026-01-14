@@ -5,6 +5,7 @@ Cellphone
 - platform
 - OS
 
+---
 # Object 1
 - platform: Android
 - OS: Color os
