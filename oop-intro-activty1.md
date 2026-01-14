@@ -2,13 +2,13 @@
 Cellphone
 
 # Properties
-- Type
+- plat form
 - OS
 
 # Object 1
-- Android
-- Color os
+- plat form: Android
+- OS: Color os
 
 # Object 2
-- Iphone
-- IOS
+- plat form: Iphone
+- OS: IOS
