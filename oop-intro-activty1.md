@@ -1,14 +1,14 @@
 # class
-Electornic Devices
+Cellphone
 
 # Properties
-- Value
 - Type
+- OS
 
 # Object 1
-- Cheap
 - Android
+- Color os
 
 # Object 2
-- Expensive
-- Windows
+- Iphone
+- IOS
