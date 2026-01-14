@@ -1,4 +1,4 @@
-# class
+# Class
 Cellphone
 
 # Properties
